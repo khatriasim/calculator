@@ -1,4 +1,3 @@
-let numbers = document.querySelector(".numbers")
 let number = document.querySelector(".number")
 
  let button1 = document.createElement("button")

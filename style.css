@@ -1,0 +1,48 @@
+.container{
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
+    margin: 100px;
+}
+.display{
+    height: 60px;
+    width: 350px;
+    border: 2px solid black;
+    margin: 20px;
+}
+.numbers{
+    height: 350px;
+    width: 350px;
+    border: 2px solid black;
+    margin: 20px;
+    display: flex;
+    gap: 10px;
+    padding-bottom: 30px;
+}
+.number{
+    height: 360px;
+    width: 260px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+.calculate{
+    height: 360px;
+    width: 60px;
+    border: 1px solid black;
+}
+.button{
+    border: 2px solid black;
+    margin: 15px;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+}
+.button0{
+    border: 2px solid black;
+    margin: 15px;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    align-content: center;
+}
